@@ -2,7 +2,7 @@ package sat.entity;
 
 import java.util.Date;
 
-public class Event {
+public class Event extends AbstractEntity{
 
 	private String title;
 
